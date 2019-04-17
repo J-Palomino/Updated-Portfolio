@@ -49,7 +49,7 @@ hr.star-light {
 
 hr.star-light:after {
   color: #fff;
-  background-color: #18BC9C;
+  background-color: rgb(8, 3, 83);
 }
 
 hr.star-dark {
@@ -104,7 +104,7 @@ section h2 {
 .scroll-to-top a {
   width: 3.5rem;
   height: 3.5rem;
-  background-color: rgba(33, 37, 41, 0.5);
+  background-color: rgba(63, 68, 73, 0.5);
   line-height: 3.1rem;
 }
 
@@ -129,7 +129,7 @@ section h2 {
 }
 
 #mainNav .navbar-nav li.nav-item a.nav-link:hover {
-  color: #18BC9C;
+  color: rgb(8, 3, 83);
 }
 
 #mainNav .navbar-nav li.nav-item a.nav-link:active, #mainNav .navbar-nav li.nav-item a.nav-link:focus {
@@ -137,7 +137,7 @@ section h2 {
 }
 
 #mainNav .navbar-nav li.nav-item a.nav-link.active {
-  color: #18BC9C;
+  color: rgb(8, 3, 83);
 }
 
 #mainNav .navbar-toggler {
@@ -162,11 +162,11 @@ section h2 {
   }
   #mainNav .navbar-nav > li.nav-item > a.nav-link.active {
     color: #fff;
-    background: #18BC9C;
+    background: gray;
   }
   #mainNav .navbar-nav > li.nav-item > a.nav-link.active:active, #mainNav .navbar-nav > li.nav-item > a.nav-link.active:focus, #mainNav .navbar-nav > li.nav-item > a.nav-link.active:hover {
     color: #fff;
-    background: #18BC9C;
+    background: gray
   }
   #mainNav.navbar-shrink {
     padding-top: 0.5rem;
@@ -221,7 +221,7 @@ header.masthead h2 {
   -webkit-transition: all ease 0.5s;
   transition: all ease 0.5s;
   opacity: 0;
-  background-color: rgba(24, 188, 156, 0.9);
+  background-color: rgb(8, 3, 83);
 }
 
 .portfolio .portfolio-item .portfolio-item-caption:hover {
@@ -313,7 +313,7 @@ header.masthead h2 {
 
 .floating-label-form-group:not(:first-child) {
   padding-left: 14px;
-  border-left: 1px solid #e9ecef;
+  border-left: 1px solid gray;
 }
 
 .floating-label-form-group-with-value label {
@@ -322,11 +322,11 @@ header.masthead h2 {
 }
 
 .floating-label-form-group-with-focus label {
-  color: #18BC9C;
+  color: rgb(8, 3, 83);
 }
 
 form .row:first-child .floating-label-form-group {
-  border-top: 1px solid #e9ecef;
+  border-top: 1px solid gray;
 }
 
 .footer {
@@ -341,11 +341,11 @@ form .row:first-child .floating-label-form-group {
 }
 
 a {
-  color: #18BC9C;
+  color: rgb(8, 3, 83);
 }
 
 a:focus, a:hover, a:active {
-  color: #128f76;
+  color: rgb(8, 3, 83);
 }
 
 .btn {
@@ -353,7 +353,7 @@ a:focus, a:hover, a:active {
 }
 
 .bg-primary {
-  background-color: #18BC9C !important;
+  background-color: rgb(8, 3, 83) !important;
 }
 
 .bg-secondary {
@@ -361,7 +361,7 @@ a:focus, a:hover, a:active {
 }
 
 .text-primary {
-  color: #18BC9C !important;
+  color: rgb(8, 3, 83) !important;
 }
 
 .text-secondary {
@@ -369,13 +369,13 @@ a:focus, a:hover, a:active {
 }
 
 .btn-primary {
-  background-color: #18BC9C;
-  border-color: #18BC9C;
+  background-color: rgb(8, 3, 83);
+  border-color: rgb(8, 3, 83);
 }
 
 .btn-primary:hover, .btn-primary:focus, .btn-primary:active {
-  background-color: #128f76;
-  border-color: #128f76;
+  background-color: rgb(8, 3, 83);
+  border-color: rgb(8, 3, 83);
 }
 
 .btn-secondary {
